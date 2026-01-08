@@ -1,9 +1,9 @@
 streamlit
-pandas
-numpy
-yfinance
-plotly
 google-genai
 openai
 anthropic
 duckduckgo-search
+yfinance
+pandas
+numpy
+plotly
